@@ -1,4 +1,4 @@
-# Moldova Open Contracting - Data Challenges
+# Moldova Open Contracting - Data Challenge
 
 This repo is developed for the data challenge session on the Moldova Open Contracting portal launch. The portal is open source (see [github](https://github.com/egovmd/opencontracting)) and is available at http://opencontracting.date.gov.md/
 
